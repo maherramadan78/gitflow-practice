@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Maher Ramadan**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/maherramadan78)
 - Twitter: [@twitterhandle](coming soon)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/maher-ramadan-655623a4/)
 
